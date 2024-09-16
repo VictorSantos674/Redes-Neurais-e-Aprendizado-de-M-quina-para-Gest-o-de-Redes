@@ -1,4 +1,4 @@
-# Redes-Neurais-e-Aprendizado-de-M-quina-para-Gest-o-de-Redes
+# Redes-Neurais-e-Aprendizado-de-Maquina-para-Gestao-de-Redes
 
 Repositório pro seminário de Tecnologias Avançadas em Redes de Computadores
 
@@ -7,6 +7,6 @@ Aqui será onde todo o progresso e materiais do projeto serão registrados e des
 **Equipe:**
 -[Maria Vitória](https://github.com/vitoria74)
 -[Maiara Torres](https://github.com/maiara-t) 
--[Zhihang Lin]()
--[Vinicius Cavalcante]()
+-[Zhihang Lin](https://github.com/Zhihang44)
+-[Vinicius Cavalcante](https://github.com/vinicius457)
 -[Victor Souza Santos](https://github.com/VictorSantos674)
