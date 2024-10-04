@@ -20,3 +20,6 @@ Aqui será onde todo o progresso e materiais do projeto serão registrados e des
 -[Neural Networks for Network Management]()
 -[GNS3 (Graphical Network Simulator 3)](https://www.gns3.com/)
 -[GitHub: Neural-Network](https://github.com/topics/neural-network)
+
+
+-[Collab 2D-CNN](https://colab.research.google.com/drive/1XvXloGRzWCWW6y4KVC7MwNB9AGvXbKEe?usp=sharing)
